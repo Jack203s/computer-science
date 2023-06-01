@@ -24,7 +24,7 @@ Name | Author(s)
 [Programming Languages: Application and Interpretation](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) | Shriram Krishnamurthi
 [Programming and Programming Languages](https://papl.cs.brown.edu/2018/) | Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz
 [Competitive Programming](https://cpbook.net/) | Steven Halim, Felix Halim
-[Introduction to computing in Java](https://introcs.cs.princeton.edu/java/home/) | Robert Sedgewick, Kevin Wayne
+[Introduction to programming in Java](https://introcs.cs.princeton.edu/java/home/) | Robert Sedgewick, Kevin Wayne
 
 ## Math
 
